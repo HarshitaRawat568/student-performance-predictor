@@ -9,7 +9,7 @@ An end-to-end Machine Learning project that predicts whether a student will pass
 ---
 
 ## 🚀 Live Demo
-> **[Click here to try the live app →](#)** *(add your Streamlit Cloud link here)*
+> **[Click here to try the live app →](https://myml-app.streamlit.app)**
 
 ---
 
@@ -111,5 +111,5 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 
-**[Your Name]** | B.Tech CSE | 2nd Year
+  Harhita Rawat | B.Tech CSE | 3rd Year
 *Amazon ML Summer School 2026 Portfolio Project*
